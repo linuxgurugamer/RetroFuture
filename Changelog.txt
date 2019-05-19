@@ -1,0 +1,12 @@
+2.0.0
+	Adoption by LGG
+	Fixed bad node directions
+	Added Patchmanager dependency for optional patches
+		Alternate Textures
+		VTOL_Select_Basic
+		VTOL_Select_FS
+		VTOL_Select_IR
+	Moved alternate (stock-alike) textures into directory: StockScheme
+	Added missing IVA references (some parts were missing the reference to the
+	IVA)
+	Added stock mk1 iva to x31 (would love to have someone make a version)
