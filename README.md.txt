@@ -1,11 +1,9 @@
 Delete old RetroFuture
 Extract RetroFuture to GamaData
 
-Requires 
-Firespitter DLL @ http://snjo.github.io/ 
-PreceduralWings http://forum.kerbalspaceprogram.com/threads/29862 v9.1+
 
 Recommended Plugins
+Firespitter DLL @ http://snjo.github.io/ 
 FAR http://forum.kerbalspaceprogram.com/threads/20451 v0.14.3.2+
 RasterPropMonitor http://forum.kerbalspaceprogram.com/threads/57603 v18.3+
 
