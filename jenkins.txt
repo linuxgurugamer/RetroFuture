@@ -33,7 +33,7 @@
 # 3:SOURCEFILE, DESTDIR
 3:RetroFuture.version,GameData/RetroFuture
 
-3:LICENSE.md,GameData/RetroFuture
+3:License.md,GameData/RetroFuture
 3:README.md,GameData/RetroFuture
 
 #
