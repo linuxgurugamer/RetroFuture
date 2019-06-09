@@ -1,4 +1,21 @@
-2.0.0
+0.2.1.0
+	Fixed following parts:
+		1mBicouplerSmall: 2x 0.625m Adapter
+		Fixed the Pulse Jet (was in wrong category and incomplete at that)
+		Fixed some typos in two fuel tanks
+	Thanks to @suicidalInsanity for the following fixes:
+		MedAdapter now has a collider,
+		pod now has fixed airlock/ladders and emissive anim. 
+		Also edited their .cfgs slightlyi
+			the adapter no longer needs the 0.6 scale inside the MODEL node
+			model was resized during recompile
+			pod has its AnimateGeneric lights anim replaced with the newer ModuleColorChanger.
+	Texture switching has been added
+		Added texture switching using the stock variant method, now the	default
+		Optional, added texture switching using B9PartSwitch, selectable using Patch Manager
+
+
+0.2.0
 	Adoption by LGG
 	Fixed bad node directions
 	Added Patchmanager dependency for optional patches
