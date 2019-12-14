@@ -1,3 +1,8 @@
+ChangeLog
+
+0.3.0
+	Updated for KSP 1.8
+
 0.2.1.0
 	Fixed following parts:
 		1mBicouplerSmall: 2x 0.625m Adapter

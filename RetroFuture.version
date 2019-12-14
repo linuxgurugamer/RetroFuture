@@ -8,14 +8,19 @@
   },
   "VERSION": {
     "MAJOR": 0,
-    "MINOR": 2,
-    "PATCH": 1,
+    "MINOR": 3,
+    "PATCH": 0,
     "BUILD": 0
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 5,
-    "PATCH": 1
+    "MINOR": 8,
+    "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "RetroFuture",
+    "PATH": "",
+    "DIRECTORY": "RetroFuture",
+    "FILE": "RetroFuture.version"
   }
 }
-
