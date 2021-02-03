@@ -1,5 +1,12 @@
 ChangeLog
 
+0.3.0.2
+    Fixed bulkheadProfiles for the Command Module Mk2
+    
+0.3.0.1
+	Fixed two files where the modulename had changed from BahaTurret to
+	ModuleWeapon,thanks to forum user @Firebird989 for the suggestion
+
 0.3.0
 	Updated for KSP 1.8
 
