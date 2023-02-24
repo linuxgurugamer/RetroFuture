@@ -1,5 +1,9 @@
 ChangeLog
 
+0.3.1
+	Added back the pWings folder, with configs updated
+	Added dependency for the B9 Procedural Wings
+
 0.3.0.3
 	Fixed typo in latMainGear.cfg
 
